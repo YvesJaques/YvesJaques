@@ -1,1 +1,3 @@
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=YvesJaques&show_icons=true&count_private=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YvesJaques&exclude_repo=cem_clipnet&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/YvesJaques?template=classic&activity=1&followup=1&isocalendar=1&languages=1&stars=1&posts=1&posts.limit=4&posts.source=dev.to&isocalendar.duration=half-year&stars.limit=4&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=America%2FSao_Paulo&config.animated=true)
