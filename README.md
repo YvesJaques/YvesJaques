@@ -15,7 +15,3 @@
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/general-awscloud-icon-512x512-tq2r4lgg.png" alt="aws" width="40" height="40" /> </a>        
 </p>
-
-
-
-![Metrics](https://metrics.lecoq.io/YvesJaques?template=classic&activity=1&followup=1&isocalendar=1&languages=1&stars=1&posts=1&posts.limit=4&posts.source=dev.to&isocalendar.duration=half-year&stars.limit=4&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=America%2FSao_Paulo&config.animated=true)
